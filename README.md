@@ -35,7 +35,3 @@ I come from an academic backgroung, having studied Physics as an undergraduate, 
  <a href="https://www.linkedin.com/in/teresantns/"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  <a href = "mailto:tseabra.antunes@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-
-### Badges
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=teresantns&show_icons=true&theme=radical&count-private=true)
